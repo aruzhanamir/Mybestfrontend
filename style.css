@@ -1,0 +1,80 @@
+body {
+    background-color: black;
+}
+.logo {
+    margin-left: 230px;
+    margin-top: 43px;
+    width: 156px;
+}
+header {
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px;
+    line-height: 16px;
+}
+ul {
+    list-style: none;
+    margin-top: 72px;
+    margin-left: 140px;
+}
+li {
+    display: inline;
+    margin-right: 10px;
+}
+li.main {
+    color: white;
+}
+li.page {
+    color: #6bff3d;
+    padding-top: 15px;
+    padding-bottom: 13px;
+    text-decoration: none;
+    border-bottom: 1px #6bff3d solid;
+    border-top: 1px #6bff3d solid;
+}
+li.must {
+    color: white;
+}
+li.be {
+    color: white;
+}
+li.here {
+    color: white;
+    padding-right: 270px;
+}
+.phone {
+    color: white;
+    text-decoration: none;
+    margin-top: 73px;
+}
+.container {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    margin-left: 230px;
+    padding-top: 106px;
+    float: left;
+}
+h1 {
+    font-weight: 900px;
+    padding-top: 62px;
+    font-size: 37px;
+}
+p {
+    font-weight: 50px;
+    opacity: 50%;
+    padding-bottom: 43px;
+}
+.button {
+    color: black;
+    background-color: #faf04b;
+    max-width: 210px;
+    padding: 19px 30px;
+    display: inline-block;
+    font-weight: bold;
+    font-size: 14px;
+    text-decoration: none;
+}
+.poly {
+    margin-top: 130px;
+    padding-left: 239px;
+}
